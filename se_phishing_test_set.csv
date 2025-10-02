@@ -1,0 +1,1005 @@
+email_text,label
+"Subject: URGENT: Verify your university payroll
+From: Payroll Desk <notice@finance-alerts-university.com>
+To: Student <student@university.edu>
+
+Your direct deposit will be paused unless you verify your bank in our new portal.
+Use the secure page: hxxps://finance-alerts-university.com/verify
+Do not share this email.",Malicious
+"Subject: Faculty meeting moved to 3:15 PM
+From: Department Admin <admin@cs.university.edu>
+To: Faculty List <faculty@cs.university.edu>
+
+Quick heads-up: today’s faculty meeting is shifted to 3:15 PM in room 402.
+No action needed if you can’t make it. Minutes will be sent after.",Benign
+"Subject: Final notice: storage quota exceeded
+From: Microsoft 365 <no-reply@micros0ft-support.com>
+To: Student <student@university.edu>
+
+We could not deliver recent messages. Increase your mailbox quota within 24 hours.
+Continue here: http://micros0ft-support.com/quota
+Failure to act will result in mailbox deactivation.",Malicious
+"Subject: Library workshop: Zotero 101
+From: University Library <library@university.edu>
+To: Students <all@university.edu>
+
+Join us for a 30-minute intro to Zotero reference management, Thursday at 4 pm.
+No registration required. See you in the instruction lab.",Benign
+"Subject: DocuSign: Action Required
+From: DocuSign Service <notify@docusign-services.net>
+To: Student <student@university.edu>
+
+A confidential document has been shared with you. View and sign to avoid delays.
+Open: https://docusign-services.net/doc/9142
+Note: for security, sign in with your email and password.",Malicious
+"Subject: Thanks for volunteering at orientation!
+From: Student Life <studentlife@university.edu>
+To: Alex <alex@student.university.edu>
+
+We appreciate your help. T‑shirts are available for pickup in the union 10–2 pm.
+Photos are posted on our site. Have a great week!",Benign
+"Subject: Security Alert: unusual sign-in attempt
+From: Account Security <security@acc0unt-verify.net>
+To: Student <student@university.edu>
+
+We detected a sign‑in from a new device. If this was you, ignore this message.
+If not, verify your account immediately: https://acc0unt-verify.net/login",Malicious
+"Subject: Seminar reminder: Distributed Systems
+From: CS Events <events@cs.university.edu>
+To: Grad Students <grad@cs.university.edu>
+
+Reminder: Dr. Patel’s seminar is Friday at 11 am, Room 245.
+Coffee and snacks provided. Slides will be uploaded afterward.",Benign
+"Subject: Package on hold: customs duty unpaid
+From: FedEx Notifications <notify@fedex-track-now.co>
+To: Student <student@university.edu>
+
+Your parcel requires a small customs duty. Pay within 12 hours to release.
+Pay now: http://fedex-track-now.co/pay",Malicious
+"Subject: Housing maintenance window Saturday
+From: Housing Services <housing@university.edu>
+To: Residents <residents@university.edu>
+
+Hot water will be unavailable 8–10 am during routine maintenance.
+Please plan accordingly. We apologize for the inconvenience.",Benign
+"Subject: IT: Password expires today
+From: IT Help <no-reply@univ-sso-login.net>
+To: Student <student@university.edu>
+
+Your SSO password expires in 0 days. Reset now to avoid lockout:
+http://univ-sso-login.net/reset",Malicious
+"Subject: Poster printing ready for pickup
+From: Makerspace <makerspace@university.edu>
+To: Jordan <jordan@student.university.edu>
+
+Your 36x48 poster is ready. Front desk hours: 9–5.
+Reply if you need a receipt for reimbursement.",Benign
+"Subject: Shared drive access issue
+From: Google Drive <drive@drive-docs-share.com>
+To: Student <student@university.edu>
+
+You were mentioned in a file but access failed. Confirm your identity to proceed:
+https://drive-docs-share.com/secure",Malicious
+"Subject: Symposium registration confirmed
+From: Conferences <events@university.edu>
+To: Quinn <quinn@student.university.edu>
+
+Your registration is confirmed. Name badge pickup begins at 8:30.
+Workshop assignments will be emailed tomorrow.",Benign
+"Subject: Payroll discrepancy for September
+From: HR & Payroll <alerts@payroll-adjustment.info>
+To: Morgan <morgan@student.university.edu>
+
+Your stipend shows a discrepancy. Download the statement and confirm details:
+http://payroll-adjustment.info/statement",Malicious
+"Subject: RSVP: lab lunch next week
+From: Lab Coordinator <lab@cs.university.edu>
+To: Team <lab@cs.university.edu>
+
+Please reply with dietary restrictions by Wednesday.
+Venue will be the patio if weather permits.",Benign
+"Subject: New voicemail received (audio inside)
+From: Campus Voice <vm@secure-incoming-fax.com>
+To: Student <student@university.edu>
+
+You have 1 new voicemail. Listen securely:
+https://secure-incoming-fax.com/voicemail?id=88213",Malicious
+"Subject: Course evaluation opens Monday
+From: Registrar <registrar@university.edu>
+To: Students <all@university.edu>
+
+Course evaluations open Monday 9 am. Responses are anonymous.
+We appreciate your feedback.",Benign
+"Subject: Your Apple ID was used on a new device
+From: Apple <no-reply@appleid-secure-help.com>
+To: Student <student@university.edu>
+
+If this was not you, verify your Apple ID to secure your account:
+https://appleid-secure-help.com/login",Malicious
+"Subject: Research participant payment processed
+From: Finance <finance@university.edu>
+To: Participant <participant@university.edu>
+
+Your honorarium has been processed to the on-file account.
+No action required. Receipt attached in the portal.",Benign
+"Subject: Final warning: mailbox deactivation
+From: Mail Admin <admin@mail-university-security.com>
+To: Student <student@university.edu>
+
+Your mailbox will be deactivated in 24 hours.
+Prevent deactivation here: http://mail-university-security.com/keep",Malicious
+"Subject: Remember to submit travel receipts
+From: Department Finance <finance@cs.university.edu>
+To: Alex <alex@student.university.edu>
+
+Please upload receipts by Friday to Concur.
+Email if you need an extension.",Benign
+"Subject: Coinbase: confirm withdrawal
+From: Coinbase Security <security@coinbɑse.com>
+To: Student <student@university.edu>
+
+We noticed a withdrawal request. If this wasn’t you, cancel immediately:
+https://coinbɑse.com-cancel.support/",Malicious
+"Subject: Rec Center — new yoga schedule
+From: Recreation Center <rec@university.edu>
+To: Students <all@university.edu>
+
+Updated yoga schedule posted. Mats available to borrow.
+First class free with student ID.",Benign
+"Subject: DHL shipment requires address update
+From: DHL Express <notice@dhl-shipping-status.co>
+To: Student <student@university.edu>
+
+We could not deliver your package. Confirm address:
+hxxps://dhl-shipping-status.co/update",Malicious
+"Subject: Welcome to the tutoring program
+From: Academic Success <tutoring@university.edu>
+To: Riley <riley@student.university.edu>
+
+You’re matched with a tutor. Sessions start next week.
+Check the LMS for scheduling tools.",Benign
+"Subject: Action needed: password policy exception
+From: IT Compliance <support@reset-now-secure.net>
+To: Student <student@university.edu>
+
+You were granted a temporary exception; confirm new policy acceptance:
+http://reset-now-secure.net/policy",Malicious
+"Subject: Shuttle detour on game day
+From: Transportation <transit@university.edu>
+To: Students <all@university.edu>
+
+Route B will skip the stadium loop 3–6 pm. See the map for stops.
+Regular service resumes afterward.",Benign
+"Subject: Missing internship paperwork
+From: Career Services <careers@university.edu>
+To: Student <student@university.edu>
+
+We are missing one form. Upload to the portal; do not email SSN or bank info.
+Contact us if you need help.",Benign
+"Subject: Help Desk ticket 583119 requires confirmation
+From: Help Desk <tickets@help.university.edu>
+To: Student <student@university.edu>
+
+A technician responded to your ticket. View in the official portal.
+Do not enter your password into any emailed links.",Benign
+"Subject: You’ve received a secure fax
+From: Secure Fax <fax@secure-incoming-fax.com>
+To: Student <student@university.edu>
+
+Open your fax: https://secure-incoming-fax.com/fax/9917
+Authentication required.",Malicious
+"Subject: Scholarship update
+From: Financial Aid <aid@university.edu>
+To: Student <student@university.edu>
+
+Your scholarship disbursement is unchanged this term.
+Questions? Stop by the Aid Office.",Benign
+"Subject: Action Required: VPN revalidation
+From: Network Operations <ops@network-verify-secure.net>
+To: Student <student@university.edu>
+
+Your VPN profile must be revalidated to maintain off‑campus access.
+Validate here: http://network-verify-secure.net/auth",Malicious
+"Subject: Dinner RSVP received
+From: Alumni Office <alumni@university.edu>
+To: Taylor <taylor@student.university.edu>
+
+Thanks for RSVP’ing. Check-in begins at 6:30 pm.
+Dress is business casual.",Benign
+"Subject: Final invoice attached
+From: Accounts <notice@vendor-invoice-center.com>
+To: Student <student@university.edu>
+
+Your invoice is attached and requires immediate payment.
+View online: http://vendor-invoice-center.com/invoice",Malicious
+"Subject: Teaching assignment confirmation
+From: Department Chair <chair@cs.university.edu>
+To: TA <ta@cs.university.edu>
+
+Your lab section is confirmed for Tuesdays at 2 pm.
+Syllabus link is in the LMS. Thank you!",Benign
+"Subject: Zoom meeting recording available
+From: Zoom Cloud <cloud@zoom-recordings-service.com>
+To: Student <student@university.edu>
+
+Your cloud recording is ready. Sign in to download:
+https://zoom-recordings-service.com/recording?id=12831",Malicious
+"Subject: Lost and found — laptop
+From: Campus Police <police@university.edu>
+To: Students <all@university.edu>
+
+A 13” laptop was turned in near the union. Describe the sticker to claim.
+Pick up at the station between 9–5.",Benign
+"Subject: Account suspension notice
+From: Mail Security <security@login-univ-security.com>
+To: Student <student@university.edu>
+
+Immediate suspension pending. Keep access by confirming credentials:
+http://login-univ-security.com/keep",Malicious
+"Subject: Lab access badge reprint ready
+From: Facilities <facilities@university.edu>
+To: Sam <sam@student.university.edu>
+
+Your replacement badge is ready at the front desk.
+Bring a photo ID. Hours 8–4:30.",Benign
+"Subject: Your Amazon order cannot be delivered
+From: Amazon <no-reply@amaz0n-delivery.co>
+To: Student <student@university.edu>
+
+Delivery failed. Confirm address and payment:
+https://amaz0n-delivery.co/fix",Malicious
+"Subject: Parking permit renewal
+From: Parking Services <parking@university.edu>
+To: Students <all@university.edu>
+
+Permits expire end of month. Renew online via the campus portal.
+Questions? Visit the office 9–3.",Benign
+"Subject: GitHub: repository access changed
+From: GitHub <noreply@github-security-alerts.com>
+To: Student <student@university.edu>
+
+Your collaborator removed access. Review permissions here:
+http://github-security-alerts.com/session",Malicious
+"Subject: Conference travel waiver approved
+From: Dean’s Office <dean@university.edu>
+To: Casey <casey@student.university.edu>
+
+Your waiver has been approved. Book travel through the usual system.
+Keep receipts for reconciliation.",Benign
+"Subject: Coinbase: tax refund available
+From: Coinbase <refund@coinbase-secure-tax.com>
+To: Student <student@university.edu>
+
+A tax adjustment is available. Claim now:
+https://coinbase-secure-tax.com/refund",Malicious
+"Subject: Meal plan balance reminder
+From: Dining <dining@university.edu>
+To: Students <all@university.edu>
+
+Your meal plan resets next week.
+Unused swipes do not roll over.",Benign
+"Subject: Action required to keep email access
+From: Admin <service@mail-university-security.com>
+To: Student <student@university.edu>
+
+Your account violates storage guidelines. Verify to continue:
+http://mail-university-security.com/verify",Malicious
+"Subject: Canvas: grade posted
+From: Instructor <professor@cs.university.edu>
+To: Student <student@university.edu>
+
+Your project grade has been posted. Check Canvas for feedback.
+Office hours Thursday 2–4 pm.",Benign
+"Subject: MFA code confirmation required
+From: Security Team <alerts@secure-session-check.com>
+To: Student <student@university.edu>
+
+To complete your login, enter your one‑time code on the page below.
+If you did not request this, cancel the attempt here:
+http://secure-session-check.com/confirm",Malicious
+"Subject: Thesis defense room change
+From: Graduate Office <grad@university.edu>
+To: Hayden <hayden@student.university.edu>
+
+Your defense has moved to Room 318 due to A/V availability.
+Committee members were notified. Good luck!",Benign
+"Subject: URGENT: Verify your Microsoft 365 account
+From: Notice <no-reply@vendor-invoice-center.com>
+To: Student <student@university.edu>
+Date: Wed, 24 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://vendor-invoice-center.com/reset
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Mon, 15 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://login-univ-security.com/login
+",Malicious
+"Subject: URGENT: Verify your University IT account
+From: Notice <no-reply@zoom-recordings-service.com>
+To: Student <student@university.edu>
+Date: Sun, 28 Sep 2025 23:54:13
+
+To view the document, login at https://zoom-recordings-service.com/doc/9142
+",Malicious
+"Subject: Payment overdue – action required
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Sat, 27 Sep 2025 23:54:13
+
+To view the document, login at https://github-security-alerts.com/doc/9142
+",Malicious
+"Subject: URGENT: Verify your Microsoft 365 account
+From: Notice <no-reply@dhl-shipping-status.co>
+To: Student <student@university.edu>
+Date: Sat, 20 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://dhl-shipping-status.co/login
+",Malicious
+"Subject: Payment overdue – action required
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Mon, 29 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://login-univ-security.com/reset
+",Malicious
+"Subject: URGENT: Verify your Dropbox account
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Sun, 28 Sep 2025 23:54:13
+
+To view the document, login at https://login-univ-security.com/doc/9142
+",Malicious
+"Subject: Payment overdue – action required
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Sun, 14 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://login-univ-security.com/reset
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@vendor-invoice-center.com>
+To: Student <student@university.edu>
+Date: Mon, 08 Sep 2025 23:54:13
+
+Please confirm your identity at http://vendor-invoice-center.com/verify to avoid deactivation.
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@zoom-recordings-service.com>
+To: Student <student@university.edu>
+Date: Fri, 26 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://zoom-recordings-service.com/reset
+",Malicious
+"Subject: Security alert on your Outlook account
+From: Notice <no-reply@secure-incoming-fax.com>
+To: Student <student@university.edu>
+Date: Sun, 14 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://secure-incoming-fax.com/login
+",Malicious
+"Subject: URGENT: Verify your GitHub account
+From: Notice <no-reply@zoom-recordings-service.com>
+To: Student <student@university.edu>
+Date: Thu, 04 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://zoom-recordings-service.com/reset
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Fri, 12 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://github-security-alerts.com/login
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@secure-incoming-fax.com>
+To: Student <student@university.edu>
+Date: Thu, 11 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://secure-incoming-fax.com/login
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@zoom-recordings-service.com>
+To: Student <student@university.edu>
+Date: Fri, 05 Sep 2025 23:54:13
+
+Please confirm your identity at http://zoom-recordings-service.com/verify to avoid deactivation.
+",Malicious
+"Subject: Security alert on your GitHub account
+From: Notice <no-reply@payroll-adjustment.info>
+To: Student <student@university.edu>
+Date: Wed, 03 Sep 2025 23:54:13
+
+Please confirm your identity at http://payroll-adjustment.info/verify to avoid deactivation.
+",Malicious
+"Subject: Final notice: password expires today
+From: Notice <no-reply@vendor-invoice-center.com>
+To: Student <student@university.edu>
+Date: Mon, 22 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://vendor-invoice-center.com/update
+",Malicious
+"Subject: URGENT: Verify your FedEx account
+From: Notice <no-reply@dhl-shipping-status.co>
+To: Student <student@university.edu>
+Date: Sat, 20 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://dhl-shipping-status.co/reset
+",Malicious
+"Subject: URGENT: Verify your DocuSign account
+From: Notice <no-reply@zoom-recordings-service.com>
+To: Student <student@university.edu>
+Date: Sun, 14 Sep 2025 23:54:13
+
+To view the document, login at https://zoom-recordings-service.com/doc/9142
+",Malicious
+"Subject: URGENT: Verify your Google Workspace account
+From: Notice <no-reply@zoom-recordings-service.com>
+To: Student <student@university.edu>
+Date: Thu, 25 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://zoom-recordings-service.com/update
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Fri, 12 Sep 2025 23:54:13
+
+Please confirm your identity at http://github-security-alerts.com/verify to avoid deactivation.
+",Malicious
+"Subject: Security alert on your PayPal account
+From: Notice <no-reply@amaz0n-delivery.co>
+To: Student <student@university.edu>
+Date: Mon, 15 Sep 2025 23:54:13
+
+To view the document, login at https://amaz0n-delivery.co/doc/9142
+",Malicious
+"Subject: Final notice: password expires today
+From: Notice <no-reply@payroll-adjustment.info>
+To: Student <student@university.edu>
+Date: Thu, 18 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://payroll-adjustment.info/login
+",Malicious
+"Subject: URGENT: Verify your HR/Payroll account
+From: Notice <no-reply@amaz0n-delivery.co>
+To: Student <student@university.edu>
+Date: Sun, 28 Sep 2025 23:54:13
+
+Please confirm your identity at http://amaz0n-delivery.co/verify to avoid deactivation.
+",Malicious
+"Subject: URGENT: Verify your DHL account
+From: Notice <no-reply@drive-docs-share.com>
+To: Student <student@university.edu>
+Date: Sun, 07 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://drive-docs-share.com/update
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@vendor-invoice-center.com>
+To: Student <student@university.edu>
+Date: Thu, 02 Oct 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://vendor-invoice-center.com/reset
+",Malicious
+"Subject: URGENT: Verify your Google Workspace account
+From: Notice <no-reply@secure-incoming-fax.com>
+To: Student <student@university.edu>
+Date: Sun, 21 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://secure-incoming-fax.com/login
+",Malicious
+"Subject: URGENT: Verify your Slack account
+From: Notice <no-reply@acc0unt-verify.net>
+To: Student <student@university.edu>
+Date: Thu, 04 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://acc0unt-verify.net/reset
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Mon, 15 Sep 2025 23:54:13
+
+Please confirm your identity at http://github-security-alerts.com/verify to avoid deactivation.
+",Malicious
+"Subject: URGENT: Verify your Slack account
+From: Notice <no-reply@dhl-shipping-status.co>
+To: Student <student@university.edu>
+Date: Wed, 24 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://dhl-shipping-status.co/update
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Fri, 19 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://login-univ-security.com/update
+",Malicious
+"Subject: Security alert on your University IT account
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Thu, 04 Sep 2025 23:54:13
+
+To view the document, login at https://login-univ-security.com/doc/9142
+",Malicious
+"Subject: Security alert on your HR/Payroll account
+From: Notice <no-reply@acc0unt-verify.net>
+To: Student <student@university.edu>
+Date: Sun, 21 Sep 2025 23:54:13
+
+To view the document, login at https://acc0unt-verify.net/doc/9142
+",Malicious
+"Subject: Security alert on your Zoom account
+From: Notice <no-reply@drive-docs-share.com>
+To: Student <student@university.edu>
+Date: Sat, 06 Sep 2025 23:54:13
+
+Please confirm your identity at http://drive-docs-share.com/verify to avoid deactivation.
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Mon, 15 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://login-univ-security.com/reset
+",Malicious
+"Subject: Security alert on your PayPal account
+From: Notice <no-reply@payroll-adjustment.info>
+To: Student <student@university.edu>
+Date: Mon, 08 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://payroll-adjustment.info/update
+",Malicious
+"Subject: Payment overdue – action required
+From: Notice <no-reply@dhl-shipping-status.co>
+To: Student <student@university.edu>
+Date: Mon, 15 Sep 2025 23:54:13
+
+To view the document, login at https://dhl-shipping-status.co/doc/9142
+",Malicious
+"Subject: URGENT: Verify your University IT account
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Sun, 07 Sep 2025 23:54:13
+
+To view the document, login at https://github-security-alerts.com/doc/9142
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@dhl-shipping-status.co>
+To: Student <student@university.edu>
+Date: Tue, 09 Sep 2025 23:54:13
+
+Please confirm your identity at http://dhl-shipping-status.co/verify to avoid deactivation.
+",Malicious
+"Subject: Security alert on your Apple ID account
+From: Notice <no-reply@amaz0n-delivery.co>
+To: Student <student@university.edu>
+Date: Sun, 21 Sep 2025 23:54:13
+
+Please confirm your identity at http://amaz0n-delivery.co/verify to avoid deactivation.
+",Malicious
+"Subject: Payment overdue – action required
+From: Notice <no-reply@amaz0n-delivery.co>
+To: Student <student@university.edu>
+Date: Sun, 07 Sep 2025 23:54:13
+
+We detected unusual activity. Reset your password at http://amaz0n-delivery.co/reset
+",Malicious
+"Subject: Final notice: password expires today
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Mon, 22 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://login-univ-security.com/login
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Sun, 28 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://github-security-alerts.com/login
+",Malicious
+"Subject: URGENT: Verify your University IT account
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Tue, 09 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://github-security-alerts.com/login
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@drive-docs-share.com>
+To: Student <student@university.edu>
+Date: Tue, 30 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://drive-docs-share.com/update
+",Malicious
+"Subject: Final notice: password expires today
+From: Notice <no-reply@github-security-alerts.com>
+To: Student <student@university.edu>
+Date: Thu, 04 Sep 2025 23:54:13
+
+To view the document, login at https://github-security-alerts.com/doc/9142
+",Malicious
+"Subject: New secure document available
+From: Notice <no-reply@vendor-invoice-center.com>
+To: Student <student@university.edu>
+Date: Tue, 02 Sep 2025 23:54:13
+
+Please confirm your identity at http://vendor-invoice-center.com/verify to avoid deactivation.
+",Malicious
+"Subject: Final notice: password expires today
+From: Notice <no-reply@acc0unt-verify.net>
+To: Student <student@university.edu>
+Date: Fri, 26 Sep 2025 23:54:13
+
+Immediate action required. Keep access by signing in: https://acc0unt-verify.net/login
+",Malicious
+"Subject: Final notice: password expires today
+From: Notice <no-reply@login-univ-security.com>
+To: Student <student@university.edu>
+Date: Sun, 14 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://login-univ-security.com/update
+",Malicious
+"Subject: Delivery on hold – confirm address
+From: Notice <no-reply@acc0unt-verify.net>
+To: Student <student@university.edu>
+Date: Tue, 30 Sep 2025 23:54:13
+
+Your parcel requires address confirmation: http://acc0unt-verify.net/update
+",Malicious
+"Subject: Workshop registration confirmed
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Sun, 28 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Club event schedule
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Sat, 20 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Facility maintenance complete
+From: registrar@university.edu
+To: Student <student@university.edu>
+Date: Sat, 06 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Meeting notes posted
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Wed, 03 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Workshop registration confirmed
+From: professor@cs.university.edu
+To: Student <student@university.edu>
+Date: Fri, 12 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Club event schedule
+From: registrar@university.edu
+To: Student <student@university.edu>
+Date: Wed, 10 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: housing@university.edu
+To: Student <student@university.edu>
+Date: Fri, 05 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Meeting notes posted
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Fri, 05 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Meeting notes posted
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Fri, 26 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Meeting notes posted
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Sat, 06 Sep 2025 23:54:13
+
+Please check the LMS for details.
+",Benign
+"Subject: Thank you for attending the seminar
+From: it-notices@mail.university.edu
+To: Student <student@university.edu>
+Date: Sat, 06 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Thank you for attending the seminar
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Wed, 24 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Thank you for attending the seminar
+From: it-notices@mail.university.edu
+To: Student <student@university.edu>
+Date: Tue, 30 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Syllabus updated on LMS
+From: events@university.edu
+To: Student <student@university.edu>
+Date: Tue, 16 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Wed, 01 Oct 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Facility maintenance complete
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Thu, 18 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Study group tonight at 7
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Thu, 18 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Club event schedule
+From: events@university.edu
+To: Student <student@university.edu>
+Date: Sun, 14 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Study group tonight at 7
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Thu, 18 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Meeting notes posted
+From: events@university.edu
+To: Student <student@university.edu>
+Date: Sat, 27 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: housing@university.edu
+To: Student <student@university.edu>
+Date: Thu, 11 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Workshop registration confirmed
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Mon, 15 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Club event schedule
+From: registrar@university.edu
+To: Student <student@university.edu>
+Date: Sun, 28 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Meeting notes posted
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Sat, 13 Sep 2025 23:54:13
+
+Please check the LMS for details.
+",Benign
+"Subject: Club event schedule
+From: registrar@university.edu
+To: Student <student@university.edu>
+Date: Thu, 04 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: events@university.edu
+To: Student <student@university.edu>
+Date: Tue, 09 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Study group tonight at 7
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Thu, 04 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Facility maintenance complete
+From: housing@university.edu
+To: Student <student@university.edu>
+Date: Sat, 27 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Meeting notes posted
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Wed, 01 Oct 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Club event schedule
+From: registrar@university.edu
+To: Student <student@university.edu>
+Date: Sat, 27 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: professor@cs.university.edu
+To: Student <student@university.edu>
+Date: Tue, 16 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Study group tonight at 7
+From: it-notices@mail.university.edu
+To: Student <student@university.edu>
+Date: Wed, 17 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Study group tonight at 7
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Tue, 16 Sep 2025 23:54:13
+
+See attached agenda on the official portal.
+",Benign
+"Subject: Syllabus updated on LMS
+From: housing@university.edu
+To: Student <student@university.edu>
+Date: Sat, 13 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Study group tonight at 7
+From: events@university.edu
+To: Student <student@university.edu>
+Date: Tue, 02 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Thank you for attending the seminar
+From: housing@university.edu
+To: Student <student@university.edu>
+Date: Sun, 07 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Syllabus updated on LMS
+From: finance@university.edu
+To: Student <student@university.edu>
+Date: Sun, 14 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Thank you for attending the seminar
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Sun, 21 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Club event schedule
+From: it-notices@mail.university.edu
+To: Student <student@university.edu>
+Date: Fri, 26 Sep 2025 23:54:13
+
+Please check the LMS for details.
+",Benign
+"Subject: Study group tonight at 7
+From: professor@cs.university.edu
+To: Student <student@university.edu>
+Date: Thu, 25 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Syllabus updated on LMS
+From: professor@cs.university.edu
+To: Student <student@university.edu>
+Date: Wed, 03 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: registrar@university.edu
+To: Student <student@university.edu>
+Date: Fri, 12 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Reminder: Library hours this weekend
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Wed, 03 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Thank you for attending the seminar
+From: professor@cs.university.edu
+To: Student <student@university.edu>
+Date: Tue, 23 Sep 2025 23:54:13
+
+Office hours are unchanged.
+",Benign
+"Subject: Facility maintenance complete
+From: it-notices@mail.university.edu
+To: Student <student@university.edu>
+Date: Tue, 23 Sep 2025 23:54:13
+
+No action required.
+",Benign
+"Subject: Study group tonight at 7
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Thu, 02 Oct 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Workshop registration confirmed
+From: library@university.edu
+To: Student <student@university.edu>
+Date: Thu, 25 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
+"Subject: Study group tonight at 7
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Thu, 11 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Thank you for attending the seminar
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Fri, 26 Sep 2025 23:54:13
+
+We appreciate your participation.
+",Benign
+"Subject: Syllabus updated on LMS
+From: careers@university.edu
+To: Student <student@university.edu>
+Date: Fri, 05 Sep 2025 23:54:13
+
+Snacks provided; bring your ID.
+",Benign
