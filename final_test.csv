@@ -1,0 +1,205 @@
+sender,receiver,date,subject,body,label,urls
+Payroll Desk <notice@finance-alerts-university.com>,Student <student@university.edu>,,URGENT: Verify your university payroll,"Your direct deposit will be paused unless you verify your bank in our new portal.
+Use the secure page: hxxps://finance-alerts-university.com/verify
+Do not share this email.",Malicious,1
+Department Admin <admin@cs.university.edu>,Faculty List <faculty@cs.university.edu>,,Faculty meeting moved to 3:15 PM,"Quick heads-up: today’s faculty meeting is shifted to 3:15 PM in room 402.
+No action needed if you can’t make it. Minutes will be sent after.",Benign,0
+Microsoft 365 <no-reply@micros0ft-support.com>,Student <student@university.edu>,,Final notice: storage quota exceeded,"We could not deliver recent messages. Increase your mailbox quota within 24 hours.
+Continue here: http://micros0ft-support.com/quota
+Failure to act will result in mailbox deactivation.",Malicious,1
+University Library <library@university.edu>,Students <all@university.edu>,,Library workshop: Zotero 101,"Join us for a 30-minute intro to Zotero reference management, Thursday at 4 pm.
+No registration required. See you in the instruction lab.",Benign,0
+DocuSign Service <notify@docusign-services.net>,Student <student@university.edu>,,DocuSign: Action Required,"A confidential document has been shared with you. View and sign to avoid delays.
+Open: https://docusign-services.net/doc/9142
+Note: for security, sign in with your email and password.",Malicious,1
+Student Life <studentlife@university.edu>,Alex <alex@student.university.edu>,,Thanks for volunteering at orientation!,"We appreciate your help. T‑shirts are available for pickup in the union 10–2 pm.
+Photos are posted on our site. Have a great week!",Benign,0
+Account Security <security@acc0unt-verify.net>,Student <student@university.edu>,,Security Alert: unusual sign-in attempt,"We detected a sign‑in from a new device. If this was you, ignore this message.
+If not, verify your account immediately: https://acc0unt-verify.net/login",Malicious,1
+CS Events <events@cs.university.edu>,Grad Students <grad@cs.university.edu>,,Seminar reminder: Distributed Systems,"Reminder: Dr. Patel’s seminar is Friday at 11 am, Room 245.
+Coffee and snacks provided. Slides will be uploaded afterward.",Benign,0
+FedEx Notifications <notify@fedex-track-now.co>,Student <student@university.edu>,,Package on hold: customs duty unpaid,"Your parcel requires a small customs duty. Pay within 12 hours to release.
+Pay now: http://fedex-track-now.co/pay",Malicious,1
+Housing Services <housing@university.edu>,Residents <residents@university.edu>,,Housing maintenance window Saturday,"Hot water will be unavailable 8–10 am during routine maintenance.
+Please plan accordingly. We apologize for the inconvenience.",Benign,0
+IT Help <no-reply@univ-sso-login.net>,Student <student@university.edu>,,IT: Password expires today,"Your SSO password expires in 0 days. Reset now to avoid lockout:
+http://univ-sso-login.net/reset",Malicious,1
+Makerspace <makerspace@university.edu>,Jordan <jordan@student.university.edu>,,Poster printing ready for pickup,"Your 36x48 poster is ready. Front desk hours: 9–5.
+Reply if you need a receipt for reimbursement.",Benign,0
+Google Drive <drive@drive-docs-share.com>,Student <student@university.edu>,,Shared drive access issue,"You were mentioned in a file but access failed. Confirm your identity to proceed:
+https://drive-docs-share.com/secure",Malicious,1
+Conferences <events@university.edu>,Quinn <quinn@student.university.edu>,,Symposium registration confirmed,"Your registration is confirmed. Name badge pickup begins at 8:30.
+Workshop assignments will be emailed tomorrow.",Benign,0
+HR & Payroll <alerts@payroll-adjustment.info>,Morgan <morgan@student.university.edu>,,Payroll discrepancy for September,"Your stipend shows a discrepancy. Download the statement and confirm details:
+http://payroll-adjustment.info/statement",Malicious,1
+Lab Coordinator <lab@cs.university.edu>,Team <lab@cs.university.edu>,,RSVP: lab lunch next week,"Please reply with dietary restrictions by Wednesday.
+Venue will be the patio if weather permits.",Benign,0
+Campus Voice <vm@secure-incoming-fax.com>,Student <student@university.edu>,,New voicemail received (audio inside),"You have 1 new voicemail. Listen securely:
+https://secure-incoming-fax.com/voicemail?id=88213",Malicious,1
+Registrar <registrar@university.edu>,Students <all@university.edu>,,Course evaluation opens Monday,"Course evaluations open Monday 9 am. Responses are anonymous.
+We appreciate your feedback.",Benign,0
+Apple <no-reply@appleid-secure-help.com>,Student <student@university.edu>,,Your Apple ID was used on a new device,"If this was not you, verify your Apple ID to secure your account:
+https://appleid-secure-help.com/login",Malicious,1
+Finance <finance@university.edu>,Participant <participant@university.edu>,,Research participant payment processed,"Your honorarium has been processed to the on-file account.
+No action required. Receipt attached in the portal.",Benign,0
+Mail Admin <admin@mail-university-security.com>,Student <student@university.edu>,,Final warning: mailbox deactivation,"Your mailbox will be deactivated in 24 hours.
+Prevent deactivation here: http://mail-university-security.com/keep",Malicious,1
+Department Finance <finance@cs.university.edu>,Alex <alex@student.university.edu>,,Remember to submit travel receipts,"Please upload receipts by Friday to Concur.
+Email if you need an extension.",Benign,0
+Coinbase Security <security@coinbɑse.com>,Student <student@university.edu>,,Coinbase: confirm withdrawal,"We noticed a withdrawal request. If this wasn’t you, cancel immediately:
+https://coinbɑse.com-cancel.support/",Malicious,1
+Recreation Center <rec@university.edu>,Students <all@university.edu>,,Rec Center — new yoga schedule,"Updated yoga schedule posted. Mats available to borrow.
+First class free with student ID.",Benign,0
+DHL Express <notice@dhl-shipping-status.co>,Student <student@university.edu>,,DHL shipment requires address update,"We could not deliver your package. Confirm address:
+hxxps://dhl-shipping-status.co/update",Malicious,1
+Academic Success <tutoring@university.edu>,Riley <riley@student.university.edu>,,Welcome to the tutoring program,"You’re matched with a tutor. Sessions start next week.
+Check the LMS for scheduling tools.",Benign,0
+IT Compliance <support@reset-now-secure.net>,Student <student@university.edu>,,Action needed: password policy exception,"You were granted a temporary exception; confirm new policy acceptance:
+http://reset-now-secure.net/policy",Malicious,1
+Transportation <transit@university.edu>,Students <all@university.edu>,,Shuttle detour on game day,"Route B will skip the stadium loop 3–6 pm. See the map for stops.
+Regular service resumes afterward.",Benign,0
+Career Services <careers@university.edu>,Student <student@university.edu>,,Missing internship paperwork,"We are missing one form. Upload to the portal; do not email SSN or bank info.
+Contact us if you need help.",Benign,0
+Help Desk <tickets@help.university.edu>,Student <student@university.edu>,,Help Desk ticket 583119 requires confirmation,"A technician responded to your ticket. View in the official portal.
+Do not enter your password into any emailed links.",Benign,0
+Secure Fax <fax@secure-incoming-fax.com>,Student <student@university.edu>,,You’ve received a secure fax,"Open your fax: https://secure-incoming-fax.com/fax/9917
+Authentication required.",Malicious,1
+Financial Aid <aid@university.edu>,Student <student@university.edu>,,Scholarship update,"Your scholarship disbursement is unchanged this term.
+Questions? Stop by the Aid Office.",Benign,0
+Network Operations <ops@network-verify-secure.net>,Student <student@university.edu>,,Action Required: VPN revalidation,"Your VPN profile must be revalidated to maintain off‑campus access.
+Validate here: http://network-verify-secure.net/auth",Malicious,1
+Alumni Office <alumni@university.edu>,Taylor <taylor@student.university.edu>,,Dinner RSVP received,"Thanks for RSVP’ing. Check-in begins at 6:30 pm.
+Dress is business casual.",Benign,0
+Accounts <notice@vendor-invoice-center.com>,Student <student@university.edu>,,Final invoice attached,"Your invoice is attached and requires immediate payment.
+View online: http://vendor-invoice-center.com/invoice",Malicious,1
+Department Chair <chair@cs.university.edu>,TA <ta@cs.university.edu>,,Teaching assignment confirmation,"Your lab section is confirmed for Tuesdays at 2 pm.
+Syllabus link is in the LMS. Thank you!",Benign,0
+Zoom Cloud <cloud@zoom-recordings-service.com>,Student <student@university.edu>,,Zoom meeting recording available,"Your cloud recording is ready. Sign in to download:
+https://zoom-recordings-service.com/recording?id=12831",Malicious,1
+Campus Police <police@university.edu>,Students <all@university.edu>,,Lost and found — laptop,"A 13” laptop was turned in near the union. Describe the sticker to claim.
+Pick up at the station between 9–5.",Benign,0
+Mail Security <security@login-univ-security.com>,Student <student@university.edu>,,Account suspension notice,"Immediate suspension pending. Keep access by confirming credentials:
+http://login-univ-security.com/keep",Malicious,1
+Facilities <facilities@university.edu>,Sam <sam@student.university.edu>,,Lab access badge reprint ready,"Your replacement badge is ready at the front desk.
+Bring a photo ID. Hours 8–4:30.",Benign,0
+Amazon <no-reply@amaz0n-delivery.co>,Student <student@university.edu>,,Your Amazon order cannot be delivered,"Delivery failed. Confirm address and payment:
+https://amaz0n-delivery.co/fix",Malicious,1
+Parking Services <parking@university.edu>,Students <all@university.edu>,,Parking permit renewal,"Permits expire end of month. Renew online via the campus portal.
+Questions? Visit the office 9–3.",Benign,0
+GitHub <noreply@github-security-alerts.com>,Student <student@university.edu>,,GitHub: repository access changed,"Your collaborator removed access. Review permissions here:
+http://github-security-alerts.com/session",Malicious,1
+Dean’s Office <dean@university.edu>,Casey <casey@student.university.edu>,,Conference travel waiver approved,"Your waiver has been approved. Book travel through the usual system.
+Keep receipts for reconciliation.",Benign,0
+Coinbase <refund@coinbase-secure-tax.com>,Student <student@university.edu>,,Coinbase: tax refund available,"A tax adjustment is available. Claim now:
+https://coinbase-secure-tax.com/refund",Malicious,1
+Dining <dining@university.edu>,Students <all@university.edu>,,Meal plan balance reminder,"Your meal plan resets next week.
+Unused swipes do not roll over.",Benign,0
+Admin <service@mail-university-security.com>,Student <student@university.edu>,,Action required to keep email access,"Your account violates storage guidelines. Verify to continue:
+http://mail-university-security.com/verify",Malicious,1
+Instructor <professor@cs.university.edu>,Student <student@university.edu>,,Canvas: grade posted,"Your project grade has been posted. Check Canvas for feedback.
+Office hours Thursday 2–4 pm.",Benign,0
+Security Team <alerts@secure-session-check.com>,Student <student@university.edu>,,MFA code confirmation required,"To complete your login, enter your one‑time code on the page below.
+If you did not request this, cancel the attempt here:
+http://secure-session-check.com/confirm",Malicious,1
+Graduate Office <grad@university.edu>,Hayden <hayden@student.university.edu>,,Thesis defense room change,"Your defense has moved to Room 318 due to A/V availability.
+Committee members were notified. Good luck!",Benign,0
+Notice <no-reply@vendor-invoice-center.com>,Student <student@university.edu>,,URGENT: Verify your Microsoft 365 account,We detected unusual activity. Reset your password at http://vendor-invoice-center.com/reset,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,New secure document available,Immediate action required. Keep access by signing in: https://login-univ-security.com/login,Malicious,1
+Notice <no-reply@zoom-recordings-service.com>,Student <student@university.edu>,,URGENT: Verify your University IT account,"To view the document, login at https://zoom-recordings-service.com/doc/9142",Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,Payment overdue – action required,"To view the document, login at https://github-security-alerts.com/doc/9142",Malicious,1
+Notice <no-reply@dhl-shipping-status.co>,Student <student@university.edu>,,URGENT: Verify your Microsoft 365 account,Immediate action required. Keep access by signing in: https://dhl-shipping-status.co/login,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Payment overdue – action required,We detected unusual activity. Reset your password at http://login-univ-security.com/reset,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,URGENT: Verify your Dropbox account,"To view the document, login at https://login-univ-security.com/doc/9142",Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Payment overdue – action required,We detected unusual activity. Reset your password at http://login-univ-security.com/reset,Malicious,1
+Notice <no-reply@vendor-invoice-center.com>,Student <student@university.edu>,,New secure document available,Please confirm your identity at http://vendor-invoice-center.com/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@zoom-recordings-service.com>,Student <student@university.edu>,,Delivery on hold – confirm address,We detected unusual activity. Reset your password at http://zoom-recordings-service.com/reset,Malicious,1
+Notice <no-reply@secure-incoming-fax.com>,Student <student@university.edu>,,Security alert on your Outlook account,Immediate action required. Keep access by signing in: https://secure-incoming-fax.com/login,Malicious,1
+Notice <no-reply@zoom-recordings-service.com>,Student <student@university.edu>,,URGENT: Verify your GitHub account,We detected unusual activity. Reset your password at http://zoom-recordings-service.com/reset,Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,New secure document available,Immediate action required. Keep access by signing in: https://github-security-alerts.com/login,Malicious,1
+Notice <no-reply@secure-incoming-fax.com>,Student <student@university.edu>,,New secure document available,Immediate action required. Keep access by signing in: https://secure-incoming-fax.com/login,Malicious,1
+Notice <no-reply@zoom-recordings-service.com>,Student <student@university.edu>,,Delivery on hold – confirm address,Please confirm your identity at http://zoom-recordings-service.com/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@payroll-adjustment.info>,Student <student@university.edu>,,Security alert on your GitHub account,Please confirm your identity at http://payroll-adjustment.info/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@vendor-invoice-center.com>,Student <student@university.edu>,,Final notice: password expires today,Your parcel requires address confirmation: http://vendor-invoice-center.com/update,Malicious,1
+Notice <no-reply@dhl-shipping-status.co>,Student <student@university.edu>,,URGENT: Verify your FedEx account,We detected unusual activity. Reset your password at http://dhl-shipping-status.co/reset,Malicious,1
+Notice <no-reply@zoom-recordings-service.com>,Student <student@university.edu>,,URGENT: Verify your DocuSign account,"To view the document, login at https://zoom-recordings-service.com/doc/9142",Malicious,1
+Notice <no-reply@zoom-recordings-service.com>,Student <student@university.edu>,,URGENT: Verify your Google Workspace account,Your parcel requires address confirmation: http://zoom-recordings-service.com/update,Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,Delivery on hold – confirm address,Please confirm your identity at http://github-security-alerts.com/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@amaz0n-delivery.co>,Student <student@university.edu>,,Security alert on your PayPal account,"To view the document, login at https://amaz0n-delivery.co/doc/9142",Malicious,1
+Notice <no-reply@payroll-adjustment.info>,Student <student@university.edu>,,Final notice: password expires today,Immediate action required. Keep access by signing in: https://payroll-adjustment.info/login,Malicious,1
+Notice <no-reply@amaz0n-delivery.co>,Student <student@university.edu>,,URGENT: Verify your HR/Payroll account,Please confirm your identity at http://amaz0n-delivery.co/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@drive-docs-share.com>,Student <student@university.edu>,,URGENT: Verify your DHL account,Your parcel requires address confirmation: http://drive-docs-share.com/update,Malicious,1
+Notice <no-reply@vendor-invoice-center.com>,Student <student@university.edu>,,New secure document available,We detected unusual activity. Reset your password at http://vendor-invoice-center.com/reset,Malicious,1
+Notice <no-reply@secure-incoming-fax.com>,Student <student@university.edu>,,URGENT: Verify your Google Workspace account,Immediate action required. Keep access by signing in: https://secure-incoming-fax.com/login,Malicious,1
+Notice <no-reply@acc0unt-verify.net>,Student <student@university.edu>,,URGENT: Verify your Slack account,We detected unusual activity. Reset your password at http://acc0unt-verify.net/reset,Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,New secure document available,Please confirm your identity at http://github-security-alerts.com/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@dhl-shipping-status.co>,Student <student@university.edu>,,URGENT: Verify your Slack account,Your parcel requires address confirmation: http://dhl-shipping-status.co/update,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Delivery on hold – confirm address,Your parcel requires address confirmation: http://login-univ-security.com/update,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Security alert on your University IT account,"To view the document, login at https://login-univ-security.com/doc/9142",Malicious,1
+Notice <no-reply@acc0unt-verify.net>,Student <student@university.edu>,,Security alert on your HR/Payroll account,"To view the document, login at https://acc0unt-verify.net/doc/9142",Malicious,1
+Notice <no-reply@drive-docs-share.com>,Student <student@university.edu>,,Security alert on your Zoom account,Please confirm your identity at http://drive-docs-share.com/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Delivery on hold – confirm address,We detected unusual activity. Reset your password at http://login-univ-security.com/reset,Malicious,1
+Notice <no-reply@payroll-adjustment.info>,Student <student@university.edu>,,Security alert on your PayPal account,Your parcel requires address confirmation: http://payroll-adjustment.info/update,Malicious,1
+Notice <no-reply@dhl-shipping-status.co>,Student <student@university.edu>,,Payment overdue – action required,"To view the document, login at https://dhl-shipping-status.co/doc/9142",Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,URGENT: Verify your University IT account,"To view the document, login at https://github-security-alerts.com/doc/9142",Malicious,1
+Notice <no-reply@dhl-shipping-status.co>,Student <student@university.edu>,,New secure document available,Please confirm your identity at http://dhl-shipping-status.co/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@amaz0n-delivery.co>,Student <student@university.edu>,,Security alert on your Apple ID account,Please confirm your identity at http://amaz0n-delivery.co/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@amaz0n-delivery.co>,Student <student@university.edu>,,Payment overdue – action required,We detected unusual activity. Reset your password at http://amaz0n-delivery.co/reset,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Final notice: password expires today,Immediate action required. Keep access by signing in: https://login-univ-security.com/login,Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,Delivery on hold – confirm address,Immediate action required. Keep access by signing in: https://github-security-alerts.com/login,Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,URGENT: Verify your University IT account,Immediate action required. Keep access by signing in: https://github-security-alerts.com/login,Malicious,1
+Notice <no-reply@drive-docs-share.com>,Student <student@university.edu>,,Delivery on hold – confirm address,Your parcel requires address confirmation: http://drive-docs-share.com/update,Malicious,1
+Notice <no-reply@github-security-alerts.com>,Student <student@university.edu>,,Final notice: password expires today,"To view the document, login at https://github-security-alerts.com/doc/9142",Malicious,1
+Notice <no-reply@vendor-invoice-center.com>,Student <student@university.edu>,,New secure document available,Please confirm your identity at http://vendor-invoice-center.com/verify to avoid deactivation.,Malicious,1
+Notice <no-reply@acc0unt-verify.net>,Student <student@university.edu>,,Final notice: password expires today,Immediate action required. Keep access by signing in: https://acc0unt-verify.net/login,Malicious,1
+Notice <no-reply@login-univ-security.com>,Student <student@university.edu>,,Final notice: password expires today,Your parcel requires address confirmation: http://login-univ-security.com/update,Malicious,1
+Notice <no-reply@acc0unt-verify.net>,Student <student@university.edu>,,Delivery on hold – confirm address,Your parcel requires address confirmation: http://acc0unt-verify.net/update,Malicious,1
+library@university.edu,Student <student@university.edu>,,Workshop registration confirmed,We appreciate your participation.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Club event schedule,Office hours are unchanged.,Benign,0
+registrar@university.edu,Student <student@university.edu>,,Facility maintenance complete,Office hours are unchanged.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Meeting notes posted,Snacks provided; bring your ID.,Benign,0
+professor@cs.university.edu,Student <student@university.edu>,,Workshop registration confirmed,We appreciate your participation.,Benign,0
+registrar@university.edu,Student <student@university.edu>,,Club event schedule,See attached agenda on the official portal.,Benign,0
+housing@university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,See attached agenda on the official portal.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Meeting notes posted,Office hours are unchanged.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Meeting notes posted,See attached agenda on the official portal.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Meeting notes posted,Please check the LMS for details.,Benign,0
+it-notices@mail.university.edu,Student <student@university.edu>,,Thank you for attending the seminar,No action required.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Thank you for attending the seminar,We appreciate your participation.,Benign,0
+it-notices@mail.university.edu,Student <student@university.edu>,,Thank you for attending the seminar,See attached agenda on the official portal.,Benign,0
+events@university.edu,Student <student@university.edu>,,Syllabus updated on LMS,See attached agenda on the official portal.,Benign,0
+library@university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,Snacks provided; bring your ID.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Facility maintenance complete,No action required.,Benign,0
+library@university.edu,Student <student@university.edu>,,Study group tonight at 7,Office hours are unchanged.,Benign,0
+events@university.edu,Student <student@university.edu>,,Club event schedule,We appreciate your participation.,Benign,0
+library@university.edu,Student <student@university.edu>,,Study group tonight at 7,Office hours are unchanged.,Benign,0
+events@university.edu,Student <student@university.edu>,,Meeting notes posted,No action required.,Benign,0
+housing@university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,Snacks provided; bring your ID.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Workshop registration confirmed,Snacks provided; bring your ID.,Benign,0
+registrar@university.edu,Student <student@university.edu>,,Club event schedule,We appreciate your participation.,Benign,0
+library@university.edu,Student <student@university.edu>,,Meeting notes posted,Please check the LMS for details.,Benign,0
+registrar@university.edu,Student <student@university.edu>,,Club event schedule,We appreciate your participation.,Benign,0
+events@university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,See attached agenda on the official portal.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Study group tonight at 7,Office hours are unchanged.,Benign,0
+housing@university.edu,Student <student@university.edu>,,Facility maintenance complete,See attached agenda on the official portal.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Meeting notes posted,Snacks provided; bring your ID.,Benign,0
+registrar@university.edu,Student <student@university.edu>,,Club event schedule,Office hours are unchanged.,Benign,0
+professor@cs.university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,See attached agenda on the official portal.,Benign,0
+it-notices@mail.university.edu,Student <student@university.edu>,,Study group tonight at 7,See attached agenda on the official portal.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Study group tonight at 7,See attached agenda on the official portal.,Benign,0
+housing@university.edu,Student <student@university.edu>,,Syllabus updated on LMS,Snacks provided; bring your ID.,Benign,0
+events@university.edu,Student <student@university.edu>,,Study group tonight at 7,We appreciate your participation.,Benign,0
+housing@university.edu,Student <student@university.edu>,,Thank you for attending the seminar,Snacks provided; bring your ID.,Benign,0
+finance@university.edu,Student <student@university.edu>,,Syllabus updated on LMS,No action required.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Thank you for attending the seminar,We appreciate your participation.,Benign,0
+it-notices@mail.university.edu,Student <student@university.edu>,,Club event schedule,Please check the LMS for details.,Benign,0
+professor@cs.university.edu,Student <student@university.edu>,,Study group tonight at 7,No action required.,Benign,0
+professor@cs.university.edu,Student <student@university.edu>,,Syllabus updated on LMS,Snacks provided; bring your ID.,Benign,0
+registrar@university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,Snacks provided; bring your ID.,Benign,0
+library@university.edu,Student <student@university.edu>,,Reminder: Library hours this weekend,No action required.,Benign,0
+professor@cs.university.edu,Student <student@university.edu>,,Thank you for attending the seminar,Office hours are unchanged.,Benign,0
+it-notices@mail.university.edu,Student <student@university.edu>,,Facility maintenance complete,No action required.,Benign,0
+library@university.edu,Student <student@university.edu>,,Study group tonight at 7,We appreciate your participation.,Benign,0
+library@university.edu,Student <student@university.edu>,,Workshop registration confirmed,Snacks provided; bring your ID.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Study group tonight at 7,We appreciate your participation.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Thank you for attending the seminar,We appreciate your participation.,Benign,0
+careers@university.edu,Student <student@university.edu>,,Syllabus updated on LMS,Snacks provided; bring your ID.,Benign,0
