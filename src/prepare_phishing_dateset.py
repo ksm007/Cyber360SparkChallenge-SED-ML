@@ -10,8 +10,8 @@ random.seed(42)
 np.random.seed(42)
 
 # --------- CONFIG ---------
-INPUT_CSV = "../data/raw/CEAS_08.csv"       # change this if your CSV filename differs
-OUTPUT_DIR = "../data/prepared_dataset"
+INPUT_CSV = "data/raw/CEAS_08.csv"       # change this if your CSV filename differs
+OUTPUT_DIR = "data/prepared_dataset"
 PHISH_TARGET = 750             # desired Malicious count
 BENIGN_TARGET = 750            # desired Benign count
 # --------------------------

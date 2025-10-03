@@ -119,9 +119,9 @@ import os, re, csv
 from pathlib import Path
 import pandas as pd
 
-INPUT_CSV  = "../data/testing/final_test.csv"            # <-- set to your file
-OUTPUT_DIR = "../prepared_dataset"
-OUTPUT_CSV = "../data/testing/test_normalized.csv"
+INPUT_CSV  = "/data/testing/final_test.csv"            # <-- set to your file
+OUTPUT_DIR = "/prepared_dataset"
+OUTPUT_CSV = "/data/testing/test_normalized.csv"
 
 # --- helpers ---
 ZW_RE = re.compile(r"[\u200B-\u200D\uFEFF]")  # zero-width chars
