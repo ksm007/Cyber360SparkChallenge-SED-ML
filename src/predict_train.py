@@ -14,8 +14,8 @@ from transformers import (
 import evaluate
 
 # ---------------- CONFIG ----------------
-TRAIN_CSV = "prepared_dataset/balanced_1500.csv"
-TEST_CSV  = "prepared_dataset/test_aligned.csv"   # set to None if not using a test set
+TRAIN_CSV = "../data/prepared_dataset/balanced_1500.csv"
+TEST_CSV  = "../data/prepared_dataset/test_aligned.csv"   # set to None if not using a test set
 MODEL_NAME = "distilbert-base-uncased"            # or "bert-base-uncased"
 MAX_LEN = 256
 OUTPUT_DIR = "models/distilbert-phish-mac"
